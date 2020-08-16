@@ -15,9 +15,9 @@
 - Please head over to [Releases](https://github.com/ashutosh-mulik/Data-Structures/releases/tag/v1.0) page for downloading.
 
 ### Contributors
-- Bhuhsan Patil
-- Pravin Gaikwad
-- Rohit Rankhambe
+- [Bhuhsan Patil](https://github.com/patilb847)
+- [Pravin Gaikwad](https://github.com/pravin6279)
+- [Rohit Rankhambe](https://github.com/rohit651)
 - Abhay Patil
 
 **Note :** If you encounter any problems, report [here](https://github.com/ashutosh-mulik/Data-Structures/issues) on Github. Please verify the context of issue before opening a ticket.
